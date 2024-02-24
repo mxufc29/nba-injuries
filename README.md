@@ -10,3 +10,5 @@ Initial Testing
 - When 'NOT YET SUBMITTED' is present in the url report, make sure the entry is present in the dataframe
 - The first and last records of each page in the url report are preserved in the dataframe
 - Count the number of 'Player records' and make sure it is equal to the number of records in the dataframe
+
+Write your results/any errors/inconsistencies you notice below.
