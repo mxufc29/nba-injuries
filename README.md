@@ -1,6 +1,7 @@
 # nba-injuries
 
 Initial Testing
+
 (a) Run NBALinkGen.py, InjRepPDFScrape.py, Testing.py in console 
 
 (b) In Testing.py, dict_dfinjtest will contain a dict of 10 dataframes selected at random, with the index being the url of the report from which the dataframe data is extracted. Do a quality check and validation of the dataframe's data with the data in the url. With emphasis on 
