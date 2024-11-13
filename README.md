@@ -18,6 +18,7 @@
    - `DATA_DIR` – ensure the `nbainjrep_keydts.csv` file is saved here.
 
 ## Testing Instructions
+Run the following tests blocks separately in “main” of ETLTesting_QC.py
 
 ### Test 1 - Bulk Download Raw Data from URLs
 - Verify that downloads complete successfully and files are correctly placed into the `DOWNLOAD_DATADIR` folder specified.
