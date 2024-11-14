@@ -4,7 +4,7 @@ Help me test my NBA injury data extraction pipeline!
 
 ## Setup Tasks
 
-Download everything in the “Required Packages” folder – three `.py` files, one `.csv` file.
+Download everything in the “testingfiles” folder – three `.py` files, one `.csv` file.
 
 - **NBALinkGen.py**
 - **InjRepPDFScrape_async.py**
